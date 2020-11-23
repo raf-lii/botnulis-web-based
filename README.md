@@ -6,4 +6,4 @@ Recode dari <a href="https://github.com/RTechnoS/bot_tulis">RTechnoS</a> (Python
 
 2. Untuk melakukan perubahan silakan di check di bagian <b>execute.php</b> dan ubah font/kertas sesuai keinginan.
 
-<font color="red">*Perhatian</font> : Code ini belum 100% sempurna, jadi kemungkinan text yang diketik tidak sejajar dengan kertas
+<font style="color:red;">*Perhatian</font> : Code ini belum 100% sempurna, jadi kemungkinan text yang diketik tidak sejajar dengan kertas
